@@ -1,1 +1,2 @@
-login info : test/test
+nom d'utilisateur : test
+mot de passe : test
